@@ -1,4 +1,4 @@
-# Project for data 542
+# DATA 542 Project
 
 This repository contains our project that explores the DevGPT dataset. This dataset contains information about conversations between developers and ChatGPT, and can be accessed from this repository: https://github.com/NAIST-SE/DevGPT/tree/main/snapshot_20230817
 
@@ -9,6 +9,8 @@ Research Question 1: What types of linter issues are common in the code generate
 Research Question 2: How are AI-generated commits used in software development? Specifically, which programming language has the most AI-generated commits, what time of day are these commits made, how many make it to a pull request, and how long does it take for them to reach a PR?
 
 Research Question 3: Can we reliably predict whether a developer’s issue will be resolved based on how old the conversation with ChatGPT is, or how often the issue is updated?
+
+The file structure and requirements needed to run any code is listed below. 
 
 
 ## File Structure
@@ -25,9 +27,14 @@ Research Question 3: Can we reliably predict whether a developer’s issue will 
 |   |---eslint_report.json  # report of eslint
 |   |---py_linter.sh        # report of pylint
 |
-|---some_others/
+|---JASONS-RQ2_FILE/
 |   |---a.ipynb
 |   |---b.ipynb
+|
+|---rq3_time_issues/
+|   |---rq3.ipynb                             #code for research question 3
+|   |---20230817_130502_issue_sharings.json   #original json file
+|   |---issue.csv                             #json file converted to csv
 |
 |---LICENSE
 |---README.md
