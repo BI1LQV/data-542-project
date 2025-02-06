@@ -1,0 +1,620 @@
+************* Module 1263
+python_codes/1263.py:24:1: E0001: Parsing failed: 'expected an indented block after 'for' statement on line 22 (1263, line 24)' (syntax-error)
+************* Module 1264
+python_codes/1264.py:28:1: E0001: Parsing failed: 'expected an indented block after 'for' statement on line 26 (1264, line 28)' (syntax-error)
+************* Module 1265
+python_codes/1265.py:17:1: E0001: Parsing failed: 'expected an indented block after 'for' statement on line 15 (1265, line 17)' (syntax-error)
+************* Module 1266
+python_codes/1266.py:17:1: E0001: Parsing failed: 'expected an indented block after function definition on line 14 (1266, line 17)' (syntax-error)
+************* Module 142
+python_codes/142.py:7:2: E0001: Parsing failed: 'invalid syntax (142, line 7)' (syntax-error)
+************* Module 1616
+python_codes/1616.py:6:7: E0001: Parsing failed: '':' expected after dictionary key (1616, line 6)' (syntax-error)
+************* Module 1620
+python_codes/1620.py:2:12: E0001: Parsing failed: 'invalid syntax (1620, line 2)' (syntax-error)
+************* Module 182
+python_codes/182.py:7:2: E0001: Parsing failed: 'invalid syntax (182, line 7)' (syntax-error)
+************* Module 1821
+python_codes/1821.py:1:1: E0001: Parsing failed: 'invalid syntax (1821, line 1)' (syntax-error)
+************* Module 1823
+python_codes/1823.py:1:1: E0001: Parsing failed: 'illegal target for annotation (1823, line 1)' (syntax-error)
+************* Module 1824
+python_codes/1824.py:1:1: E0001: Parsing failed: 'illegal target for annotation (1824, line 1)' (syntax-error)
+************* Module 1883
+python_codes/1883.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1883, line 2)' (syntax-error)
+************* Module 1884
+python_codes/1884.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1884, line 2)' (syntax-error)
+************* Module 1886
+python_codes/1886.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1886, line 2)' (syntax-error)
+************* Module 1887
+python_codes/1887.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1887, line 2)' (syntax-error)
+************* Module 1888
+python_codes/1888.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1888, line 2)' (syntax-error)
+************* Module 1889
+python_codes/1889.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1889, line 2)' (syntax-error)
+************* Module 1894
+python_codes/1894.py:4:5: E0001: Parsing failed: 'expected an indented block after 'try' statement on line 2 (1894, line 4)' (syntax-error)
+************* Module 1895
+python_codes/1895.py:4:5: E0001: Parsing failed: 'expected an indented block after 'try' statement on line 2 (1895, line 4)' (syntax-error)
+************* Module 1905
+python_codes/1905.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1905, line 2)' (syntax-error)
+************* Module 1906
+python_codes/1906.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1906, line 2)' (syntax-error)
+************* Module 1908
+python_codes/1908.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1908, line 2)' (syntax-error)
+************* Module 1909
+python_codes/1909.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1909, line 2)' (syntax-error)
+************* Module 1910
+python_codes/1910.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1910, line 2)' (syntax-error)
+************* Module 1911
+python_codes/1911.py:2:5: E0001: Parsing failed: 'invalid syntax. Perhaps you forgot a comma? (1911, line 2)' (syntax-error)
+************* Module 1916
+python_codes/1916.py:4:5: E0001: Parsing failed: 'expected an indented block after 'try' statement on line 2 (1916, line 4)' (syntax-error)
+************* Module 1917
+python_codes/1917.py:4:5: E0001: Parsing failed: 'expected an indented block after 'try' statement on line 2 (1917, line 4)' (syntax-error)
+************* Module 1980
+python_codes/1980.py:2:1: E0001: Parsing failed: 'expected an indented block after function definition on line 1 (1980, line 2)' (syntax-error)
+************* Module 597
+python_codes/597.py:13:5: E0001: Parsing failed: 'expected an indented block after function definition on line 10 (597, line 13)' (syntax-error)
+************* Module 756
+python_codes/756.py:1:40: E0001: Parsing failed: 'invalid syntax (756, line 1)' (syntax-error)
+************* Module 903
+python_codes/903.py:3:1: E0001: Parsing failed: 'expected an indented block after 'for' statement on line 1 (903, line 3)' (syntax-error)
+************* Module 1009
+python_codes/1009.py:12:0: C0301: Line too long (132/100) (line-too-long)
+python_codes/1009.py:2:0: C0411: standard import "typing.Optional" should be placed before third party import "pydantic.create_model" (wrong-import-order)
+************* Module 1010
+python_codes/1010.py:12:0: C0301: Line too long (132/100) (line-too-long)
+python_codes/1010.py:28:0: C0301: Line too long (109/100) (line-too-long)
+python_codes/1010.py:2:0: C0411: standard import "typing.Optional" should be placed before third party import "pydantic.create_model" (wrong-import-order)
+************* Module 105
+python_codes/105.py:9:4: W0612: Unused variable 'data' (unused-variable)
+python_codes/105.py:9:10: W0612: Unused variable 'client_address' (unused-variable)
+************* Module 112
+python_codes/112.py:5:0: C0301: Line too long (110/100) (line-too-long)
+************* Module 1129
+python_codes/1129.py:15:4: W0612: Unused variable 'client_socket' (unused-variable)
+python_codes/1129.py:29:23: W0613: Unused argument 'irc_socket' (unused-argument)
+************* Module 1204
+python_codes/1204.py:16:0: C0301: Line too long (119/100) (line-too-long)
+************* Module 1216
+python_codes/1216.py:48:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1216.py:7:34: W0622: Redefining built-in 'id' (redefined-builtin)
+python_codes/1216.py:6:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+python_codes/1216.py:14:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+python_codes/1216.py:37:14: W0621: Redefining name 'client_records' from outer scope (line 63) (redefined-outer-name)
+python_codes/1216.py:37:30: W0621: Redefining name 'server_records' from outer scope (line 64) (redefined-outer-name)
+************* Module 1218
+python_codes/1218.py:29:0: C0301: Line too long (112/100) (line-too-long)
+python_codes/1218.py:30:0: C0301: Line too long (113/100) (line-too-long)
+python_codes/1218.py:31:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1218.py:37:0: C0305: Trailing newlines (trailing-newlines)
+python_codes/1218.py:32:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+************* Module 1227
+python_codes/1227.py:8:11: W3101: Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely (missing-timeout)
+************* Module 1229
+python_codes/1229.py:2:0: W0611: Unused import requests (unused-import)
+************* Module 1230
+python_codes/1230.py:13:11: W3101: Missing timeout argument for method 'requests.post' can cause your program to hang indefinitely (missing-timeout)
+************* Module 1231
+python_codes/1231.py:20:0: C0301: Line too long (108/100) (line-too-long)
+************* Module 1233
+python_codes/1233.py:6:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1233.py:9:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1233.py:12:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1233.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1233.py:31:11: E1101: Module '1233' has no 'from_spec_dict' member (no-member)
+************* Module 1234
+python_codes/1234.py:27:11: E1101: Module '1234' has no 'from_spec_dict' member (no-member)
+************* Module 1236
+python_codes/1236.py:23:11: E1101: Module '1236' has no 'from_spec_dict' member (no-member)
+************* Module 1237
+python_codes/1237.py:18:11: E1101: Module '1237' has no 'from_spec_dict' member (no-member)
+************* Module 126
+python_codes/126.py:5:26: E0601: Using variable 'img' before assignment (used-before-assignment)
+************* Module 140
+python_codes/140.py:1:0: W0611: Unused import micropip (unused-import)
+************* Module 141
+python_codes/141.py:1:0: E1142: 'await' should be used within an async function (await-outside-async)
+************* Module 143
+python_codes/143.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+python_codes/143.py:2:0: W0611: Unused import os (unused-import)
+python_codes/143.py:3:0: W0611: Unused import cv2 (unused-import)
+python_codes/143.py:5:0: W0611: Unused tensorflow imported as tf (unused-import)
+************* Module 1447
+python_codes/1447.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1447.py:3:29: W0621: Redefining name 'owner' from outer scope (line 19) (redefined-outer-name)
+python_codes/1447.py:3:36: W0621: Redefining name 'repo' from outer scope (line 20) (redefined-outer-name)
+python_codes/1447.py:3:42: W0621: Redefining name 'branch_a' from outer scope (line 21) (redefined-outer-name)
+python_codes/1447.py:3:52: W0621: Redefining name 'branch_b' from outer scope (line 22) (redefined-outer-name)
+python_codes/1447.py:3:62: W0621: Redefining name 'access_token' from outer scope (line 23) (redefined-outer-name)
+python_codes/1447.py:8:15: W3101: Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1447.py:10:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+************* Module 1458
+python_codes/1458.py:27:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+python_codes/1458.py:50:19: W0621: Redefining name 'channel' from outer scope (line 6) (redefined-outer-name)
+python_codes/1458.py:50:36: W0613: Unused argument 'properties' (unused-argument)
+************* Module 146
+python_codes/146.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+python_codes/146.py:2:0: W0611: Unused import os (unused-import)
+************* Module 1465
+python_codes/1465.py:2:0: E0611: No name 'controllers' in module '' (no-name-in-module)
+python_codes/1465.py:5:0: W0104: Statement seems to have no effect (pointless-statement)
+python_codes/1465.py:2:0: W0611: Unused import controllers (unused-import)
+************* Module 1466
+python_codes/1466.py:6:0: C0301: Line too long (167/100) (line-too-long)
+python_codes/1466.py:7:39: W0613: Unused argument 'method' (unused-argument)
+python_codes/1466.py:7:0: W0613: Unused argument 'kw' (unused-argument)
+python_codes/1466.py:5:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module 148
+python_codes/148.py:1:0: W0611: Unused import os (unused-import)
+python_codes/148.py:2:0: W0611: Unused import cv2 (unused-import)
+python_codes/148.py:3:0: W0611: Unused numpy imported as np (unused-import)
+python_codes/148.py:5:0: W0611: Unused matplotlib.pyplot imported as plt (unused-import)
+************* Module 1487
+python_codes/1487.py:32:0: C0301: Line too long (571/100) (line-too-long)
+python_codes/1487.py:1:21: W0621: Redefining name 'large_json' from outer scope (line 37) (redefined-outer-name)
+python_codes/1487.py:2:4: W0621: Redefining name 'smaller_json' from outer scope (line 41) (redefined-outer-name)
+************* Module 1488
+python_codes/1488.py:2:0: C0301: Line too long (139/100) (line-too-long)
+python_codes/1488.py:42:0: C0301: Line too long (123/100) (line-too-long)
+python_codes/1488.py:1:0: R0902: Too many instance attributes (10/7) (too-many-instance-attributes)
+python_codes/1488.py:2:4: R0913: Too many arguments (11/5) (too-many-arguments)
+python_codes/1488.py:2:4: R0917: Too many positional arguments (11/5) (too-many-positional-arguments)
+python_codes/1488.py:1:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/1488.py:14:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/1488.py:20:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/1488.py:26:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/1488.py:31:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/1488.py:36:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/1488.py:41:0: R0902: Too many instance attributes (9/7) (too-many-instance-attributes)
+python_codes/1488.py:42:4: R0913: Too many arguments (10/5) (too-many-arguments)
+python_codes/1488.py:42:4: R0917: Too many positional arguments (10/5) (too-many-positional-arguments)
+python_codes/1488.py:42:60: W0622: Redefining built-in 'format' (redefined-builtin)
+python_codes/1488.py:41:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+************* Module 1489
+python_codes/1489.py:16:0: C0301: Line too long (116/100) (line-too-long)
+************* Module 150
+python_codes/150.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+python_codes/150.py:2:0: W0611: Unused import os (unused-import)
+************* Module 1509
+python_codes/1509.py:22:0: C0301: Line too long (135/100) (line-too-long)
+python_codes/1509.py:3:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module 1511
+python_codes/1511.py:32:8: W0201: Attribute 'modified_html' defined outside __init__ (attribute-defined-outside-init)
+************* Module 1512
+python_codes/1512.py:3:0: C0411: standard import "concurrent.futures.ThreadPoolExecutor" should be placed before third party import "ijson" (wrong-import-order)
+************* Module 1513
+python_codes/1513.py:6:4: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+************* Module 1514
+python_codes/1514.py:6:4: R1705: Unnecessary "elif" after "return", remove the leading "el" from "elif" (no-else-return)
+************* Module 1517
+python_codes/1517.py:9:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+python_codes/1517.py:14:15: W3101: Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1517.py:25:34: W3101: Missing timeout argument for method 'requests.put' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1517.py:2:0: C0411: standard import "json" should be placed before third party import "requests" (wrong-import-order)
+python_codes/1517.py:2:0: W0611: Unused import json (unused-import)
+************* Module 1518
+python_codes/1518.py:12:5: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+python_codes/1518.py:17:15: W3101: Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1518.py:32:38: W3101: Missing timeout argument for method 'requests.put' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1518.py:2:0: C0411: standard import "json" should be placed before third party import "requests" (wrong-import-order)
+python_codes/1518.py:2:0: W0611: Unused import json (unused-import)
+************* Module 1519
+python_codes/1519.py:13:11: W3101: Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1519.py:20:15: W3101: Missing timeout argument for method 'requests.get' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1519.py:35:38: W3101: Missing timeout argument for method 'requests.put' can cause your program to hang indefinitely (missing-timeout)
+python_codes/1519.py:2:0: C0411: standard import "json" should be placed before third party import "requests" (wrong-import-order)
+python_codes/1519.py:2:0: W0611: Unused import json (unused-import)
+************* Module 1520
+python_codes/1520.py:1:0: W0104: Statement seems to have no effect (pointless-statement)
+************* Module 1559
+python_codes/1559.py:1:0: W0611: Unused ApiSession imported from hdscraper.product_details.product_details_scraper (unused-import)
+python_codes/1559.py:1:0: W0611: Unused ProductDetailsScraper imported from hdscraper.product_details.product_details_scraper (unused-import)
+************* Module 1561
+python_codes/1561.py:1:0: W0611: Unused ApiSession imported from hdscraper.product_details.product_details_scraper (unused-import)
+python_codes/1561.py:1:0: W0611: Unused ProductDetailsScraper imported from hdscraper.product_details.product_details_scraper (unused-import)
+************* Module 1565
+python_codes/1565.py:1:0: W0611: Unused ApiSession imported from hdscraper.product_details.product_details_scraper (unused-import)
+python_codes/1565.py:1:0: W0611: Unused ProductDetailsScraper imported from hdscraper.product_details.product_details_scraper (unused-import)
+************* Module 1594
+python_codes/1594.py:3:18: W0621: Redefining name 'image_path' from outer scope (line 27) (redefined-outer-name)
+python_codes/1594.py:3:30: W0621: Redefining name 'new_width' from outer scope (line 28) (redefined-outer-name)
+python_codes/1594.py:3:41: W0621: Redefining name 'new_height' from outer scope (line 29) (redefined-outer-name)
+python_codes/1594.py:10:4: W0612: Unused variable 'height_diff' (unused-variable)
+************* Module 161
+python_codes/161.py:18:0: C0301: Line too long (101/100) (line-too-long)
+python_codes/161.py:10:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+************* Module 1621
+python_codes/1621.py:29:23: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1621.py:30:22: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1621.py:31:22: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1621.py:33:35: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1621.py:10:9: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+************* Module 163
+python_codes/163.py:25:0: C0301: Line too long (101/100) (line-too-long)
+python_codes/163.py:17:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+python_codes/163.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+************* Module 165
+python_codes/165.py:25:0: C0301: Line too long (101/100) (line-too-long)
+python_codes/165.py:17:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+python_codes/165.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+************* Module 166
+python_codes/166.py:5:26: E0601: Using variable 'img' before assignment (used-before-assignment)
+************* Module 1710
+python_codes/1710.py:14:0: R0913: Too many arguments (6/5) (too-many-arguments)
+python_codes/1710.py:14:0: R0917: Too many positional arguments (6/5) (too-many-positional-arguments)
+python_codes/1710.py:14:16: W0622: Redefining built-in 'input' (redefined-builtin)
+python_codes/1710.py:3:0: C0411: standard import "sys" should be placed before third party import "click" (wrong-import-order)
+************* Module 1778
+python_codes/1778.py:1:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+************* Module 1779
+python_codes/1779.py:1:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+************* Module 1784
+python_codes/1784.py:1:12: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1784.py:16:16: C0209: Formatting a regular string which could be an f-string (consider-using-f-string)
+python_codes/1784.py:11:27: W0613: Unused argument 'ctx' (unused-argument)
+python_codes/1784.py:11:32: W0613: Unused argument 'param' (unused-argument)
+python_codes/1784.py:25:8: W0613: Unused argument 'context' (unused-argument)
+python_codes/1784.py:38:9: W0622: Redefining built-in 'input' (redefined-builtin)
+python_codes/1784.py:30:21: R1735: Consider using '{"ignore_unknown_options": True}' instead of a call to 'dict'. (use-dict-literal)
+python_codes/1784.py:50:4: E1120: No value for argument 'context' in function call (no-value-for-parameter)
+************* Module 1792
+python_codes/1792.py:13:0: C0301: Line too long (105/100) (line-too-long)
+python_codes/1792.py:7:4: W0246: Useless parent or super() delegation in method '__init__' (useless-parent-delegation)
+python_codes/1792.py:8:8: R1725: Consider using Python 3 style super() without arguments (super-with-arguments)
+************* Module 1795
+python_codes/1795.py:21:0: C0301: Line too long (107/100) (line-too-long)
+python_codes/1795.py:7:4: W0246: Useless parent or super() delegation in method '__init__' (useless-parent-delegation)
+python_codes/1795.py:8:8: R1725: Consider using Python 3 style super() without arguments (super-with-arguments)
+************* Module 180
+python_codes/180.py:1:0: W0611: Unused import micropip (unused-import)
+************* Module 1802
+python_codes/1802.py:25:0: C0301: Line too long (107/100) (line-too-long)
+python_codes/1802.py:7:4: W0246: Useless parent or super() delegation in method '__init__' (useless-parent-delegation)
+python_codes/1802.py:8:8: R1725: Consider using Python 3 style super() without arguments (super-with-arguments)
+************* Module 1804
+python_codes/1804.py:25:0: C0301: Line too long (107/100) (line-too-long)
+python_codes/1804.py:7:4: W0246: Useless parent or super() delegation in method '__init__' (useless-parent-delegation)
+python_codes/1804.py:8:8: R1725: Consider using Python 3 style super() without arguments (super-with-arguments)
+************* Module 181
+python_codes/181.py:1:0: E1142: 'await' should be used within an async function (await-outside-async)
+************* Module 183
+python_codes/183.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+python_codes/183.py:2:0: W0611: Unused import os (unused-import)
+python_codes/183.py:3:0: W0611: Unused import cv2 (unused-import)
+python_codes/183.py:5:0: W0611: Unused tensorflow imported as tf (unused-import)
+************* Module 1845
+python_codes/1845.py:4:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 1846
+python_codes/1846.py:3:4: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+************* Module 1847
+python_codes/1847.py:7:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1847.py:10:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1847.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1847.py:1:0: W0611: Unused import pytest (unused-import)
+************* Module 186
+python_codes/186.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+python_codes/186.py:2:0: W0611: Unused import os (unused-import)
+************* Module 188
+python_codes/188.py:1:0: W0611: Unused import os (unused-import)
+python_codes/188.py:2:0: W0611: Unused import cv2 (unused-import)
+python_codes/188.py:3:0: W0611: Unused numpy imported as np (unused-import)
+python_codes/188.py:5:0: W0611: Unused matplotlib.pyplot imported as plt (unused-import)
+************* Module 1896
+python_codes/1896.py:1:0: R1707: Disallow trailing comma tuple (trailing-comma-tuple)
+************* Module 190
+python_codes/190.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+python_codes/190.py:2:0: W0611: Unused import os (unused-import)
+************* Module 1918
+python_codes/1918.py:1:0: R1707: Disallow trailing comma tuple (trailing-comma-tuple)
+************* Module 1930
+python_codes/1930.py:13:0: C0301: Line too long (221/100) (line-too-long)
+python_codes/1930.py:19:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1930.py:23:0: C0301: Line too long (195/100) (line-too-long)
+python_codes/1930.py:23:0: C0325: Unnecessary parens after '=' keyword (superfluous-parens)
+python_codes/1930.py:31:0: C0301: Line too long (118/100) (line-too-long)
+python_codes/1930.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1930.py:47:0: C0301: Line too long (212/100) (line-too-long)
+python_codes/1930.py:34:38: W1401: Anomalous backslash in string: '\D'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+python_codes/1930.py:42:30: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+python_codes/1930.py:42:36: W1401: Anomalous backslash in string: '\D'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+python_codes/1930.py:2:0: R0914: Too many local variables (22/15) (too-many-locals)
+python_codes/1930.py:10:8: W0702: No exception type(s) specified (bare-except)
+python_codes/1930.py:2:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+************* Module 1931
+python_codes/1931.py:21:0: C0301: Line too long (221/100) (line-too-long)
+python_codes/1931.py:26:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1931.py:30:0: C0301: Line too long (195/100) (line-too-long)
+python_codes/1931.py:30:0: C0325: Unnecessary parens after '=' keyword (superfluous-parens)
+python_codes/1931.py:37:0: C0301: Line too long (118/100) (line-too-long)
+python_codes/1931.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/1931.py:57:0: C0301: Line too long (203/100) (line-too-long)
+python_codes/1931.py:40:38: W1401: Anomalous backslash in string: '\D'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+python_codes/1931.py:52:34: W1401: Anomalous backslash in string: '\d'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+python_codes/1931.py:52:40: W1401: Anomalous backslash in string: '\D'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
+python_codes/1931.py:2:0: R0914: Too many local variables (25/15) (too-many-locals)
+python_codes/1931.py:10:7: R1714: Consider merging these comparisons with 'in' by using 'filter_value in ('none', 'all')'. Use a set instead if elements are hashable. (consider-using-in)
+python_codes/1931.py:18:8: W0702: No exception type(s) specified (bare-except)
+python_codes/1931.py:2:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+************* Module 1936
+python_codes/1936.py:24:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 1938
+python_codes/1938.py:1:0: W0622: Redefining built-in 'next' (redefined-builtin)
+python_codes/1938.py:20:8: W0719: Raising too general exception: Exception (broad-exception-raised)
+************* Module 1951
+python_codes/1951.py:1:0: R0903: Too few public methods (1/2) (too-few-public-methods)
+************* Module 1979
+python_codes/1979.py:4:0: E0402: Attempted relative import beyond top-level package (relative-beyond-top-level)
+python_codes/1979.py:5:0: E0402: Attempted relative import beyond top-level package (relative-beyond-top-level)
+python_codes/1979.py:1:0: W0611: Unused import jax (unused-import)
+python_codes/1979.py:2:0: W0611: Unused jax.numpy imported as jnp (unused-import)
+python_codes/1979.py:3:0: W0611: Unused tree_map_with_path imported from jax.tree_util (unused-import)
+python_codes/1979.py:3:0: W0611: Unused DictKey imported from jax.tree_util (unused-import)
+python_codes/1979.py:3:0: W0611: Unused SequenceKey imported from jax.tree_util (unused-import)
+python_codes/1979.py:4:0: W0611: Unused LORA_FREEZE imported from constants (unused-import)
+python_codes/1979.py:4:0: W0611: Unused LORA_FULL imported from constants (unused-import)
+python_codes/1979.py:5:0: W0611: Unused EmptyNode imported from transform (unused-import)
+python_codes/1979.py:5:0: W0611: Unused LoraNode imported from transform (unused-import)
+python_codes/1979.py:5:0: W0611: Unused custom_tree_map imported from transform (unused-import)
+************* Module 1982
+python_codes/1982.py:8:0: C0301: Line too long (127/100) (line-too-long)
+python_codes/1982.py:1:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+************* Module 201
+python_codes/201.py:18:0: C0301: Line too long (101/100) (line-too-long)
+python_codes/201.py:10:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+************* Module 203
+python_codes/203.py:25:0: C0301: Line too long (101/100) (line-too-long)
+python_codes/203.py:17:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+python_codes/203.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+************* Module 205
+python_codes/205.py:25:0: C0301: Line too long (101/100) (line-too-long)
+python_codes/205.py:17:0: R1710: Either all return statements in a function should return an expression, or none of them should. (inconsistent-return-statements)
+python_codes/205.py:2:0: C0411: standard import "os" should be placed before third party import "flask.Flask" (wrong-import-order)
+************* Module 328
+python_codes/328.py:1:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+************* Module 330
+python_codes/330.py:4:28: E1101: Class 'traceback' has no 'format_stack' member (no-member)
+************* Module 331
+python_codes/331.py:4:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/331.py:11:22: W0621: Redefining name 'queue' from outer scope (line 29) (redefined-outer-name)
+python_codes/331.py:18:23: W0621: Redefining name 'queue' from outer scope (line 29) (redefined-outer-name)
+************* Module 369
+python_codes/369.py:4:4: W0621: Redefining name 'random_numbers' from outer scope (line 8) (redefined-outer-name)
+************* Module 371
+python_codes/371.py:18:4: W0612: Unused variable 'transformation' (unused-variable)
+python_codes/371.py:2:0: C0411: standard import "threading" should be placed before third party import "ogr" (wrong-import-order)
+************* Module 372
+python_codes/372.py:19:8: W0612: Unused variable 'transformation' (unused-variable)
+python_codes/372.py:2:0: C0411: standard import "threading" should be placed before third party import "ogr" (wrong-import-order)
+************* Module 375
+python_codes/375.py:18:4: W0612: Unused variable 'transformation' (unused-variable)
+python_codes/375.py:2:0: C0411: standard import "threading" should be placed before third party import "ogr" (wrong-import-order)
+************* Module 376
+python_codes/376.py:19:8: W0612: Unused variable 'transformation' (unused-variable)
+python_codes/376.py:2:0: C0411: standard import "threading" should be placed before third party import "ogr" (wrong-import-order)
+************* Module 380
+python_codes/380.py:14:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 381
+python_codes/381.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 424
+python_codes/424.py:3:7: W0718: Catching too general exception Exception (broad-exception-caught)
+************* Module 440
+python_codes/440.py:15:4: W0603: Using the global statement (global-statement)
+python_codes/440.py:25:15: W0718: Catching too general exception Exception (broad-exception-caught)
+************* Module 441
+python_codes/441.py:16:4: W0603: Using the global statement (global-statement)
+python_codes/441.py:26:15: W0718: Catching too general exception Exception (broad-exception-caught)
+************* Module 467
+python_codes/467.py:5:8: W0612: Unused variable 'finder' (unused-variable)
+python_codes/467.py:5:22: W0612: Unused variable 'ispkg' (unused-variable)
+************* Module 493
+python_codes/493.py:1:0: C0301: Line too long (101/100) (line-too-long)
+************* Module 508
+python_codes/508.py:1:0: W0611: Unused import os (unused-import)
+************* Module 535
+python_codes/535.py:1:0: W0611: Unused pipeline imported from transformers (unused-import)
+************* Module 546
+python_codes/546.py:4:17: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+python_codes/546.py:5:22: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+************* Module 547
+python_codes/547.py:4:17: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+python_codes/547.py:5:22: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+************* Module 548
+python_codes/548.py:17:17: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+python_codes/548.py:18:22: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+************* Module 549
+python_codes/549.py:17:17: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+python_codes/549.py:18:22: E1101: Module 'torch' has no 'tensor' member; maybe 'Tensor'? (no-member)
+************* Module 647
+python_codes/647.py:23:0: C0301: Line too long (113/100) (line-too-long)
+python_codes/647.py:7:4: W0622: Redefining built-in 'iter' (redefined-builtin)
+************* Module 717
+python_codes/717.py:43:0: C0301: Line too long (109/100) (line-too-long)
+python_codes/717.py:4:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/717.py:18:23: W0621: Redefining name 'num_of_structs' from outer scope (line 30) (redefined-outer-name)
+python_codes/717.py:14:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+************* Module 718
+python_codes/718.py:43:0: C0301: Line too long (109/100) (line-too-long)
+python_codes/718.py:4:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+python_codes/718.py:18:23: W0621: Redefining name 'num_of_structs' from outer scope (line 30) (redefined-outer-name)
+python_codes/718.py:14:0: R0903: Too few public methods (0/2) (too-few-public-methods)
+************* Module 724
+python_codes/724.py:4:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 725
+python_codes/725.py:3:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/725.py:27:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/725.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/725.py:1:18: W0613: Unused argument 'self' (unused-argument)
+************* Module 728
+python_codes/728.py:45:0: C0301: Line too long (113/100) (line-too-long)
+************* Module 730
+python_codes/730.py:30:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/730.py:58:0: C0301: Line too long (114/100) (line-too-long)
+python_codes/730.py:6:0: C2401: Class name "HövelerSpider" contains a non-ASCII character, consider renaming it. (non-ascii-name)
+************* Module 731
+python_codes/731.py:3:0: C0301: Line too long (105/100) (line-too-long)
+************* Module 733
+python_codes/733.py:49:0: C0301: Line too long (107/100) (line-too-long)
+python_codes/733.py:6:0: C2401: Class name "HövelerSpider" contains a non-ASCII character, consider renaming it. (non-ascii-name)
+************* Module 735
+python_codes/735.py:24:0: C0301: Line too long (103/100) (line-too-long)
+python_codes/735.py:50:0: C0301: Line too long (112/100) (line-too-long)
+python_codes/735.py:6:0: C2401: Class name "HövelerSpider" contains a non-ASCII character, consider renaming it. (non-ascii-name)
+************* Module 736
+python_codes/736.py:32:0: C0301: Line too long (121/100) (line-too-long)
+python_codes/736.py:37:0: C0301: Line too long (120/100) (line-too-long)
+python_codes/736.py:50:0: C0301: Line too long (110/100) (line-too-long)
+python_codes/736.py:53:0: C0301: Line too long (145/100) (line-too-long)
+python_codes/736.py:11:0: C2401: Class name "HövelerSpider" contains a non-ASCII character, consider renaming it. (non-ascii-name)
+python_codes/736.py:61:8: W0612: Unused variable 'driver' (unused-variable)
+python_codes/736.py:62:8: W0612: Unused variable 'variant_response' (unused-variable)
+************* Module 741
+python_codes/741.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/741.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/741.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 742
+python_codes/742.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/742.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/742.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 743
+python_codes/743.py:23:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/743.py:33:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/743.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 748
+python_codes/748.py:29:29: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:30:58: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:40:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:51:0: C0301: Line too long (110/100) (line-too-long)
+python_codes/748.py:52:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:62:28: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:63:58: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:71:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:75:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:83:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/748.py:23:8: W0622: Redefining built-in 'next' (redefined-builtin)
+python_codes/748.py:5:0: C0411: standard import "json" should be placed before third party imports "PIMS.spiders.base.BaseSpider", "scrapy.loader.ItemLoader", "PIMS.items.Product", "scrapy.Request" (wrong-import-order)
+python_codes/748.py:3:0: C0412: Imports from package PIMS are not grouped (ungrouped-imports)
+python_codes/748.py:4:0: C0412: Imports from package scrapy are not grouped (ungrouped-imports)
+************* Module 75
+python_codes/75.py:9:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+python_codes/75.py:2:23: W0613: Unused argument 'path' (unused-argument)
+python_codes/75.py:21:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+python_codes/75.py:11:18: W0613: Unused argument 'save' (unused-argument)
+python_codes/75.py:35:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+python_codes/75.py:24:25: W0613: Unused argument 'a' (unused-argument)
+python_codes/75.py:24:53: W0613: Unused argument 'b' (unused-argument)
+python_codes/75.py:49:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+python_codes/75.py:38:23: W0613: Unused argument 'text' (unused-argument)
+python_codes/75.py:38:34: W0613: Unused argument 'n_vals' (unused-argument)
+python_codes/75.py:63:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+python_codes/75.py:52:25: W0613: Unused argument 'text' (unused-argument)
+python_codes/75.py:52:36: W0613: Unused argument 'n_vals' (unused-argument)
+python_codes/75.py:76:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+python_codes/75.py:65:32: W0613: Unused argument 'text' (unused-argument)
+python_codes/75.py:65:43: W0613: Unused argument 'n_vals' (unused-argument)
+python_codes/75.py:89:8: W2301: Unnecessary ellipsis constant (unnecessary-ellipsis)
+python_codes/75.py:78:22: W0613: Unused argument 'text' (unused-argument)
+python_codes/75.py:78:33: W0613: Unused argument 'n_vals' (unused-argument)
+************* Module 750
+python_codes/750.py:3:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/750.py:14:0: C0301: Line too long (106/100) (line-too-long)
+python_codes/750.py:15:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/750.py:25:24: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/750.py:26:54: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/750.py:34:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/750.py:38:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/750.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 751
+python_codes/751.py:6:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+python_codes/751.py:5:39: W0613: Unused argument 'info' (unused-argument)
+************* Module 754
+python_codes/754.py:3:33: W0613: Unused argument 'response' (unused-argument)
+python_codes/754.py:3:48: W0613: Unused argument 'info' (unused-argument)
+python_codes/754.py:6:39: W0613: Unused argument 'info' (unused-argument)
+python_codes/754.py:12:33: W0613: Unused argument 'response' (unused-argument)
+python_codes/754.py:12:48: W0613: Unused argument 'info' (unused-argument)
+python_codes/754.py:15:39: W0613: Unused argument 'info' (unused-argument)
+************* Module 755
+python_codes/755.py:38:29: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:39:58: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:49:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:60:0: C0301: Line too long (110/100) (line-too-long)
+python_codes/755.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:71:28: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:72:58: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:80:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:84:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:92:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/755.py:32:8: W0622: Redefining built-in 'next' (redefined-builtin)
+python_codes/755.py:5:0: C0411: standard import "json" should be placed before third party imports "PIMS.spiders.base.BaseSpider", "scrapy.loader.ItemLoader", "PIMS.items.Product", "scrapy.Request" (wrong-import-order)
+python_codes/755.py:3:0: C0412: Imports from package PIMS are not grouped (ungrouped-imports)
+python_codes/755.py:4:0: C0412: Imports from package scrapy are not grouped (ungrouped-imports)
+************* Module 757
+python_codes/757.py:38:29: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:39:58: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:49:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:60:0: C0301: Line too long (110/100) (line-too-long)
+python_codes/757.py:61:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:71:28: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:72:58: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:80:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:84:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:92:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/757.py:32:8: W0622: Redefining built-in 'next' (redefined-builtin)
+python_codes/757.py:95:12: W0104: Statement seems to have no effect (pointless-statement)
+python_codes/757.py:94:12: W0612: Unused variable 'img' (unused-variable)
+python_codes/757.py:5:0: C0411: standard import "json" should be placed before third party imports "PIMS.spiders.base.BaseSpider", "scrapy.loader.ItemLoader", "PIMS.items.Product", "scrapy.Request" (wrong-import-order)
+python_codes/757.py:3:0: C0412: Imports from package PIMS are not grouped (ungrouped-imports)
+python_codes/757.py:4:0: C0412: Imports from package scrapy are not grouped (ungrouped-imports)
+************* Module 759
+python_codes/759.py:1:0: C0301: Line too long (169/100) (line-too-long)
+************* Module 760
+python_codes/760.py:1:0: C0301: Line too long (182/100) (line-too-long)
+************* Module 761
+python_codes/761.py:5:4: W0621: Redefining name 'size' from outer scope (line 1) (redefined-outer-name)
+python_codes/761.py:8:26: C0121: Comparison 'unit != None' should be 'unit is not None' (singleton-comparison)
+python_codes/761.py:11:28: C0121: Comparison 'unit != None' should be 'unit is not None' (singleton-comparison)
+************* Module 762
+python_codes/762.py:3:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/762.py:11:0: C0301: Line too long (186/100) (line-too-long)
+python_codes/762.py:31:0: C0301: Line too long (104/100) (line-too-long)
+python_codes/762.py:35:0: C0301: Line too long (202/100) (line-too-long)
+************* Module 763
+python_codes/763.py:30:0: C0301: Line too long (104/100) (line-too-long)
+python_codes/763.py:34:0: C0301: Line too long (152/100) (line-too-long)
+************* Module 764
+python_codes/764.py:32:0: C0301: Line too long (104/100) (line-too-long)
+python_codes/764.py:37:0: C0301: Line too long (152/100) (line-too-long)
+************* Module 765
+python_codes/765.py:31:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/765.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/765.py:39:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 766
+python_codes/766.py:21:0: C0301: Line too long (104/100) (line-too-long)
+python_codes/766.py:36:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/766.py:41:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/766.py:44:0: C0303: Trailing whitespace (trailing-whitespace)
+python_codes/766.py:19:8: W0612: Unused variable 'product_data' (unused-variable)
+************* Module 767
+python_codes/767.py:3:0: C0412: Imports from package PIMS are not grouped (ungrouped-imports)
+python_codes/767.py:4:0: C0412: Imports from package scrapy are not grouped (ungrouped-imports)
+************* Module 778
+python_codes/778.py:8:0: C0303: Trailing whitespace (trailing-whitespace)
+************* Module 80
+python_codes/80.py:9:0: C0301: Line too long (127/100) (line-too-long)
+python_codes/80.py:1:0: W0401: Wildcard import scapy.all (wildcard-import)
+************* Module 82
+python_codes/82.py:20:0: C0301: Line too long (136/100) (line-too-long)
+python_codes/82.py:4:0: W0401: Wildcard import scapy.all (wildcard-import)
+************* Module 873
+python_codes/873.py:3:26: W0621: Redefining name 'coordinates_str' from outer scope (line 14) (redefined-outer-name)
+python_codes/873.py:9:4: W0621: Redefining name 'latitude' from outer scope (line 17) (redefined-outer-name)
+python_codes/873.py:10:4: W0621: Redefining name 'longitude' from outer scope (line 17) (redefined-outer-name)
+************* Module 98
+python_codes/98.py:9:4: W0612: Unused variable 'data' (unused-variable)
+python_codes/98.py:9:10: W0612: Unused variable 'client_address' (unused-variable)
+
+------------------------------------------------------------------
+Your code has been rated at 7.94/10 (previous run: 8.18/10, -0.25)
+
