@@ -1,6 +1,8 @@
-Here are some instructions about how to run these codes.
+# Project for data 542
 
-Environment Preparations:
+## for ra1 lint issues
+
+### Environment Preparations:
 
 1. Install Node.js(https://nodejs.org/en) which is runtime for ESLint.
 
@@ -10,10 +12,14 @@ Environment Preparations:
 
 4. run `pip install pylint` to install `pylint`.
 
-Code Exec:
+### Usage:
 
 1. run `extractor.ipynb` first to extract all code snippets from dataset.
 
 2. run `./py_linter.sh` and `./js_linter.sh` to generate lint report.
 
 3. run `analysis.ipynb` to get the plots and analysis.
+
+## License
+
+[MIT](./LICENSE) License © 2025-PRESENT Aamna, Jason, Jiahao
