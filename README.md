@@ -32,9 +32,9 @@ The file structure and requirements needed to run any code is listed below.
 |   |---b.ipynb
 |
 |---rq3_time_issues/
-|   |---rq3.ipynb                             #code for research question 3
-|   |---20230817_130502_issue_sharings.json   #original json file
-|   |---issue.csv                             #json file converted to csv
+|   |---rq3.ipynb                             # code for research question 3
+|   |---20230817_130502_issue_sharings.json   # original json file
+|   |---issue.csv                             # json file converted to csv
 |
 |---LICENSE
 |---README.md
