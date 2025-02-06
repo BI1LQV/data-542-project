@@ -12,6 +12,8 @@
 
 4. run `pip install pylint` to install `pylint`.
 
+5. put the dataset in `./data` folder
+
 ### Usage:
 
 1. run `extractor.ipynb` first to extract all code snippets from dataset.
