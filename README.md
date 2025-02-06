@@ -1,6 +1,6 @@
 # Project for data 542
 
-This repository details our project that explores the DevGPT dataset. This dataset contains information about conversations between developers and ChatGPT, and can be accessed from this repository: https://github.com/NAIST-SE/DevGPT/tree/main/snapshot_20230817
+This repository contains our project that explores the DevGPT dataset. This dataset contains information about conversations between developers and ChatGPT, and can be accessed from this repository: https://github.com/NAIST-SE/DevGPT/tree/main/snapshot_20230817
 
 We have proposed three research questions and defined a methodology to answer each one, in hopes of better understanding any patterns or insights in the data. Our methods and findings are detailed in our final report. Each directory corresponds to the code written to answer the following research questions:
 
