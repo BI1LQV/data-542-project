@@ -1,5 +1,28 @@
 # Project for data 542
 
+## File Structure
+
+```
+|---ra1_lint_issues/        # codes for rearch 1 questions
+|   |---extractor.ipynb     # extract code blocks from dataset 
+|   |---analysis.ipynb      # analysis the 
+|   |---package.json        # config for eslint
+|   |---pnpm-lock.yaml      # config for eslint
+|   |---eslint.config.mjs   # config for eslint
+|   |---js_linter.sh        # bash shell for eslint report 
+|   |---py_linter.sh        # bash shell for pylint report 
+|   |---eslint_report.json  # report of eslint
+|   |---py_linter.sh        # report of pylint
+|
+|---some_others/
+|   |---a.ipynb
+|   |---b.ipynb
+|
+|---LICENSE
+|---README.md
+```
+
+
 ## for ra1 lint issues
 
 ### Environment Preparations:
