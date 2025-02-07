@@ -27,7 +27,7 @@ The file structure and requirements needed to run any code is listed below.
 |   |---eslint_report.json  # report of eslint
 |   |---py_linter.sh        # report of pylint
 |
-|---JASONS-RQ2_FILE/
+|---rq2_ai_commits/
 |   |---rq2.ipynb           # code for research question 2
 |   |---20230803_093947_pr_sharings.json        # pull request data for 20230803
 |   |---20230803_095317_commit_sharings.json    # commit data for 20230803
