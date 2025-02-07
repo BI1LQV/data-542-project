@@ -41,9 +41,9 @@ The file structure and requirements needed to run any code is listed below.
 ```
 
 
-## for ra1 lint issues
+## Instructions for ra1 lint issues
 
-### Environment Preparations:
+### Environment Preparations: 
 
 1. Install Node.js(https://nodejs.org/en) which is runtime for ESLint.
 
@@ -62,6 +62,22 @@ The file structure and requirements needed to run any code is listed below.
 2. run `./py_linter.sh` and `./js_linter.sh` to generate lint report.
 
 3. run `analysis.ipynb` to get the plots and analysis.
+
+## Instructions for RQ2
+
+### Environment Preparations:
+
+### Usage:
+
+## Instructions for rq3 time issues
+
+### Environment Preparations:
+
+1. Download the 20230817_130502_issue_sharings.json file from the dataset
+
+### Usage:
+
+1. run `rq3.ipynb` to see the anaylsis
 
 ## License
 
