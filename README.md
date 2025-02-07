@@ -70,11 +70,15 @@ The file structure and requirements needed to run any code is listed below.
 
 3. run `analysis.ipynb` to get the plots and analysis.
 
-## Instructions for RQ2
+## Instructions for rq2 ai commits
 
 ### Environment Preparations:
 
+-
+
 ### Usage:
+
+1. run `rq2.ipynb` to see the analysis. A new csv file will be created when this jupyter notebook is executed.
 
 ## Instructions for rq3 time issues
 
