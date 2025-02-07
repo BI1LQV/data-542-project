@@ -28,11 +28,20 @@ The file structure and requirements needed to run any code is listed below.
 |   |---py_linter.sh        # report of pylint
 |
 |---JASONS-RQ2_FILE/
-|   |---a.ipynb
-|   |---b.ipynb
+|   |---rq2.ipynb           # code for research question 2
+|   |---20230803_093947_pr_sharings.json        # pull request data for 20230803
+|   |---20230803_095317_commit_sharings.json    # commit data for 20230803
+|   |---20230810_123110_pr_sharings.json        # pull request data for 20230810
+|   |---20230810_124807_commit_sharings.json    # commit data for 20230810
+|   |---20230817_125147_pr_sharings.json        # pull request data for 20230817
+|   |---20230817_131244_commit_sharings.json    # commit data for 20230817
+|   |---20230824_100450_pr_sharings.json        # pull request data for 20230824
+|   |---20230824_102435_commit_sharings.json    # commit data for 20230824
+|   |---20230831_060603_pr_sharings.json        # pull request data for 20230831
+|   |---20230831_063412_commit_sharings.json    # commit data for 20230831
 |
 |---rq3_time_issues/
-|   |---rq3.ipynb                             # code for research question 3
+|   |---rq3.ipynb           # code for research question 3
 |
 |---LICENSE
 |---README.md
